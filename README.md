@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Vanessa Beatriz
 
-- 🔭 Hoje trabalho com back e front-end
+- 🔭 Atuo como back e front-end
 - 🌱 Estou cursando ADS - Analise e Desenvolvimento de Sistemas
 - 😄 Pronomes: ela/dela
 
