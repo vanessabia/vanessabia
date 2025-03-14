@@ -1,8 +1,15 @@
-## Olá! Eu sou a Vanessa Beatriz
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=Hi!!+I'm+Vanessa+Beatriz;%E2%8A%B9+Welcome+to+my+profile!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+  </a>
+</div>
 
-- 🔭 Atuo como back e front-end
-- 🌱 Estou cursando ADS - Analise e Desenvolvimento de Sistemas
-- 😄 Pronomes: ela/dela
+#
+
+<p align="center">Estudante de Análise e Desenvolvimento de Sistemas No IFPB Campus Cajazeiras. Atuo com Back e Front-end.
+Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+  
+#
 
 <div>
    <a href="https://github.com/vanessabia>
