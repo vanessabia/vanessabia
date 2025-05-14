@@ -11,7 +11,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   
 #
 
-<div>
+<div> 
    <a href="https://github.com/vanessabia>
    <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=vanessabia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
    <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=vanessabia&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dracula"/>
