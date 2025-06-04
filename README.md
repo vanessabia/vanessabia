@@ -11,12 +11,15 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   
 #
 
-<div> 
-   <a href="https://github.com/vanessabia>
-   <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=vanessabia&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-   <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=vanessabia&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=dracula"/>
-   <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessabia&layout=compact&langs_count=16&theme=dracula"/>   
+<div>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=vanessabia&show_icons=true&include_all_commits=true&count_private=true&bg_color=000000,000000,000000&title_color=FF00F6&text_color=ffffff&icon_color=FF00F6&border_color=FF00F6" alt="GitHub stats">
+
+  <a href="https://github.com/vanessabia/github-readme-stats">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vanessabia&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=5&show_icons=true&title_color=FF00F6&bg_color=000&text_color=8B8B8B&border_radius=4&border_color=FF00F6&count_private=true" alt="Most Used Languages">
+  </a>
 </div>
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Vanessa-Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
@@ -34,6 +37,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   <a href = "mailto:vanessabia2112@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vanessa-beatriz-56069b2ba" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vanessabia/vanessabia/output/github-contribution-grid-snake-dark.svg">
