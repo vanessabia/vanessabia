@@ -7,7 +7,7 @@
 #
 
 <p align="center">Estudante de Análise e Desenvolvimento de Sistemas No IFPB Campus Cajazeiras. Atuo com Back e Front-end.
-Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras.
+Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia.
   
 #
 
