@@ -14,7 +14,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 #
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vanessabia&show_icons=true&count_private=true&border_radius=4&border_color=FF00F6&title_color=FF00F6&icon_color=FF00F6&text_color=c9d1d9&bg_color=000" alt="Vanessa github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=vanessabia&show_icons=true&count_private=true&border_radius=4&border_color=FF00F6&title_color=FF00F6&icon_color=FF00F6&text_color=c9d1d9&bg_color=000" alt="Vanessa github stats" />
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessabia&layout=compact&border_radius=4&border_color=FF00F6&title_color=FF00F6&text_color=00bfbf&bg_color=000" />
 </div>
 <br>
@@ -27,6 +27,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   <img align="center" alt="Vanessa-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
   <img align="center" alt="Vanessa-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
   <img align="center" alt="Vanessa-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+  <img align="center" alt="Vanessa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
   <img align="center" alt="Vanessa-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
   <img align="center" alt="Vanessa-Postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
   <img align="center" alt="Vanessa-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
